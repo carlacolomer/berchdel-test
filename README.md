@@ -9,8 +9,8 @@ This test was founded in 1985 when a cartoonist Alison Bechdel asked in her comi
 
 # Dataset description 
 
-Bechdel test API : 9,330 movies & 5 variables 
-IMBD public csvs: title crew, title principals, title ratings, title basics, title ratings, title akas : 1,000,000 movies 
+- Bechdel test API : 9,330 movies & 5 variables 
+- IMBD public csvs: title crew, title principals, title ratings, title basics, title ratings, title akas : 1,000,000 movies 
 
 # Problem Statement & Data Questions : What combination of movie attributes makes a movie more or less likely to pass the Bechdel Test?
 
