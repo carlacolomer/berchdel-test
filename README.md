@@ -12,8 +12,9 @@ This test was founded in 1985 when a cartoonist Alison Bechdel asked in her comi
 - Bechdel test API : 9,330 movies & 5 variables 
 - IMBD public csvs: title crew, title principals, title ratings, title basics, title ratings, title akas : 1,000,000 movies 
 
-# Problem Statement & Data Questions : What combination of movie attributes makes a movie more or less likely to pass the Bechdel Test?
+# Problem Statement & Data Questions 
 
+- Overall - What combination of movie attributes makes a movie more or less likely to pass the Bechdel Test?
 - Time - Have the Bechdel scores of movies improved over the years?
 - Rating - Do movies with higher IMDB ratings have higher Bechdel scores?
 - Director Gender - Do movies with female directors have higher Bechdel scores?
