@@ -12,6 +12,12 @@ This test was founded in 1985 when a cartoonist Alison Bechdel asked in her comi
 - Bechdel test API : 9,330 movies & 5 variables 
 - IMBD public csvs: title crew, title principals, title ratings, title basics, title ratings, title akas : 1,000,000 movies 
 
+# Topics Covered
+
+- API Calls
+- Pandas Dataframe manipulation
+- Machine Learning models 
+
 # Problem Statement & Data Questions 
 
 - Overall - What combination of movie attributes makes a movie more or less likely to pass the Bechdel Test?
@@ -46,3 +52,10 @@ Analyse: answer all questions (data visualization), select best model & limitati
 Answer following questions:
 - Budget - Does the budget of a movie have any impact on its Bechdel score?
 - Revenue - Do movies with higher Bechdel scores generate a larger revenue?
+
+# References
+- https://ai.plainenglish.io/predicting-bechdel-test-score-using-machine-learning-7253618a3f8
+- https://sarahscoop.com/does-your-favorite-movie-pass-the-bechdel-test/
+- https://towardsdatascience.com/the-bechdel-test-analyzing-gender-disparity-in-hollywood-263cd4bcd9d
+- https://katherinees.github.io/bechdel.html
+- 
