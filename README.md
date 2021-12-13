@@ -20,7 +20,9 @@ This test was founded in 1985 when a cartoonist Alison Bechdel asked in her comi
 - Director Gender - Do movies with female directors have higher Bechdel scores?
 - Gender - What genders are more or less likely to pass the Bechdel Score?
 
-# Type of analysis: Predictive (training a ml model to predict if movies depending on their parameters are likely to pass the Bechdel Test) & data visualization (answering all data questions)
+# Type of analysis: 
+- Predictive - training a ml model to predict if movies depending on their parameters are likely to pass the Bechdel Test
+- Data Visualization - answering all data questions
 
 # Project Roadmap
 
