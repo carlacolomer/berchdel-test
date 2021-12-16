@@ -58,4 +58,4 @@ Answer following questions:
 - https://sarahscoop.com/does-your-favorite-movie-pass-the-bechdel-test/
 - https://towardsdatascience.com/the-bechdel-test-analyzing-gender-disparity-in-hollywood-263cd4bcd9d
 - https://katherinees.github.io/bechdel.html
-- 
+- Data Vizualisation: https://medium.com/@siddhardhan23/data-visualization-in-python-a90ddb706b23
